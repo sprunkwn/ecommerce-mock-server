@@ -6,7 +6,7 @@ const server = express();
 server.use((req, res, next) => {
     res.setHeader(
         "Access-Control-Allow-Origin",
-        "https://main--officialstore-hibrid-it.netlify.app"
+        "https://main--officialstore-hibrid-it.netlify.app/"
       );
       res.setHeader(
         "Access-Control-Allow-Methods",
