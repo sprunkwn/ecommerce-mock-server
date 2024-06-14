@@ -3,7 +3,7 @@
     {
       "id": 10001,
       "name": "Aperol Spritz",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "overview": "Served as an aperitivo (a light pre-meal drink), the Aperol Spritz originated in Italy in 1919.",
       "long_description": "Served as an aperitivo (a light pre-meal drink), the Aperol Spritz originated in Italy in 1919. While you'd find Europeans enjoying this cocktail with Aperol, bubbly wine, and sparkling water ever since that time, the Aperol Spritz didn't make it big in the U.S. until the 2010s. But with only three ingredients and a light alcohol content, this easy-to-drink cocktail can now be found at brunches and happy hours around the world.",
       "price": 29,
       "poster": "https://images.unsplash.com/photo-1570649462630-2eec4e6bcd6d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bGlxdW9yfGVufDB8MHwwfHx8MA%3D%3D",
@@ -17,7 +17,7 @@
     {
       "id": 10002,
       "name": "Whiskey Sour",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "overview": "The first printed recipe for a Whiskey Sour appeared in the Jerry Thomas Bartenders Guide.",
       "long_description": "The first printed recipe for a Whiskey Sour appeared in the Jerry Thomas Bartenders Guide, which was the first-ever cocktail book released in 1862. A mixture of whiskey, sugar, and lemon, the Whiskey Sour used to be made with egg white, but that ingredient isn't as common anymore.",
       "price": 99,
       "poster": "https://images.unsplash.com/photo-1690021416495-6a8b9059d21e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Ymx1ciUyMGxpcXVvciUyMGJvdHRsZXN8ZW58MHwwfDB8fHww",
@@ -31,7 +31,7 @@
     {
       "id": 10003,
       "name": "Moscow Mule",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "overview": "While the Moscow Mule's origin story has nothing to do with Moscow or mules.",
       "long_description": "While the Moscow Mule's origin story has nothing to do with Moscow or mules, this vodka-based cocktail has become a classic. Served in an ice-cold copper mug, the Moscow Mule is composed of vodka, ginger beer, and lime juice. Allegedly this drink was created by two men who were just trying to get rid of their respective vodka and ginger beer collections, and they decided to combine the two — a happy accident that bar-goers have been enjoying ever since.",
       "price": 29,
       "poster": "https://images.unsplash.com/photo-1614614099780-0010088e0fbe?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHZvZGthJTIwYm90dGxlfGVufDB8MHwwfHx8MA%3D%3D",
@@ -45,7 +45,7 @@
     {
       "id": 10004,
       "name": "Penicillin",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "overview": "The Penicillin may not offer the cures of the antibiotic it's named for, but it's basically just as famous.",
       "long_description": "The Penicillin may not offer the cures of the antibiotic it's named for, but it's basically just as famous. This Scotch-based cocktail originated in New York in the mid-2000s. While it's a fairly new creation, the Penicillin has made its way into bars around the world, proving its status as a top classic cocktail.",
       "price": 99,
       "poster": "https://images.unsplash.com/photo-1585703164392-171d7f8a0af5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8d2hpc2tleSUyMGdsYXNzfGVufDB8MHwwfHx8MA%3D%3D",
@@ -59,7 +59,7 @@
     {
       "id": 10005,
       "name": "Corpse Reviver",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "overview": "The Corpse Reviver No. 2 is a pre-Prohibition era cocktail that was used for reviving a corpse.",
       "long_description": "The Corpse Reviver No. 2 is a pre-Prohibition era cocktail that was used for reviving a corpse, so basically it was a drink to cure a hangover. While the absinthe, gin, Lillet blanc, and orange liqueur cocktail disappeared for decades, its resurrection was driven by Harry Craddock's The Savory Cocktail Book, published in 1930.",
       "price": 19,
       "poster": "https://images.unsplash.com/photo-1513189737554-b1bbd839b9a3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGJlZXIlMjBib3R0bGV8ZW58MHwwfDB8fHww",
@@ -73,7 +73,7 @@
     {
       "id": 10006,
       "name": "Daiquiri",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "overview": "Daiquiris can get a bad rep for being fruity slushies that you only drink on the beach.",
       "long_description": "Daiquiris can get a bad rep for being fruity slushies that you only drink on the beach. But this Cuban rum cocktail was a favorite of some of America's biggest names — including President John F. Kennedy and Ernest Hemingway. Let the tasty simplicity of the Daiquiri change your mind with the sweet, fresh flavors of light rum, sugar, and lime.",
       "price": 99,
       "poster": "https://media.istockphoto.com/id/1298678706/es/foto/botella-de-vino-y-copa.webp?b=1&s=170667a&w=0&k=20&c=3CNO9egC34jGq2m2hPCw76NPFswBM10Pv7Mr-ok5AH8=",
@@ -87,7 +87,7 @@
     {
       "id": 10007,
       "name": "Boulevardier",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "overview": "The Boulevardier is a simple whiskey variation of the classic Negroni.",
       "long_description": "The Boulevardier is a simple whiskey variation of the classic Negroni. The cocktail originated at a bar in Paris during the 1920s and became popular thanks to the book, Barflies and Cocktails. Its creation is credited to Erskine Gwynne who was the founder of Boulevardier, a magazine for expats living in Paris.",
       "price": 19,
       "poster": "https://images.unsplash.com/photo-1587773403675-ba676c122bf3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bGlxdW9yc3xlbnwwfDB8MHx8fDA%3D",
@@ -101,7 +101,7 @@
     {
       "id": 10008,
       "name": "Sazerac",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "overview": "Similar to an Old Fashioned, the Sazerac is composed of rye whiskey, sugar, and bitters.",
       "long_description": "Similar to an Old Fashioned, the Sazerac is composed of rye whiskey, sugar, and bitters. The Sazerac cocktail can be traced back to the 1800s, and it was trademarked by Sazerac Co., a New Orleans company, in 1900. The cocktail was named the official cocktail of New Orleans in 2008, but it has always been a large part of the city. It's believed the first versions of this cocktail were made with French brandy from Sazerac Co. and Peychaud's bitters, which were invented by a resident of New Orleans.",
       "price": 29,
       "poster": "https://media.istockphoto.com/id/926051722/es/foto/interior-degustaci%C3%B3n-de-vinos-con-varias-botellas-de-vino-y-copas.webp?b=1&s=170667a&w=0&k=20&c=tOWhaghmru0_k1X06nFcP85A802VvcWw8m5ZekEdu_0=",
@@ -115,7 +115,7 @@
     {
       "id": 10009,
       "name": "Vieux Carré",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "overview": "The Vieux Carré originated at a legendary New Orleans bar, the Carousel Bar, during the 1930s.",
       "long_description": "The Vieux Carré originated at a legendary New Orleans bar, the Carousel Bar, during the 1930s. The cocktail is named Vieux Carré, which means old square in French and refers to the French Quarter in New Orleans. To make this cocktail, combine rye whiskey, Cognac, sweet vermouth, Benedictine liqueur, and bitters, and garnish with a lemon twist or maraschino cherries.",
       "price": 29,
       "poster": "https://images.unsplash.com/photo-1582106245687-cbb466a9f07f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGNvY2t0YWlsc3xlbnwwfDB8MHx8fDA%3D",
@@ -129,7 +129,7 @@
     {
       "id": 10010,
       "name": "Amaretto Sour",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "overview": "Amaretto is a sweet Italian liqueur known for its almond or apricot flavors.",
       "long_description": "Amaretto is a sweet Italian liqueur known for its almond or apricot flavors. The Amaretto Sour is an easy cocktail to make, but it can often be overpowered by store-bought sweet and sour mix. The best way to make an Amaretto Sour is with fresh juice instead of the mix. Just like the base recipe for other sours, the Amaretto Sour is made with amaretto, lemon juice, and sugar — and you can also add the egg white if you like.",
       "price": 19,
       "poster": "https://images.unsplash.com/photo-1514361659284-59851c90d011?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -143,7 +143,7 @@
     {
       "id": 10011,
       "name": "El Diablo",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "overview": "Margaritas and Palomas may be the most memorable tequila drinks, but the El Diablo is still a fan favorite.",
       "long_description": "Margaritas and Palomas may be the most memorable tequila drinks, but the El Diablo is still a fan favorite. The cocktail, which combines tequila, crème de cassis, lime juice, and ginger, was created by Trader Vic in the 1940s. Vic's original recipe used ginger ale, but nowadays the El Diablo is typically made with ginger beer or ginger syrup.",
       "price": 29,
       "poster": "https://media.istockphoto.com/id/1318833649/es/foto/c%C3%B3cteles-bebidas-en-el-bar.jpg?s=612x612&w=0&k=20&c=KGQYMgW1Iju-dihKKm0igTzt9Sb6ujjeUvAWmUPAb1E=",
@@ -157,7 +157,7 @@
     {
       "id": 10012,
       "name": "Rum Old Fashioned",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "overview": "The Old Fashioned is about as classic a cocktail as you can find.",
       "long_description": "The Old Fashioned is about as classic a cocktail as you can find. It uses the same formula as the first recorded cocktail over 200 years ago, which is spirit, sugar, water, and bitters. Some people don't think the traditional Old Fashioned recipe should be tampered with, but you can really make an Old Fashioned with any spirit. The Rum Old Fashioned is made with (you guessed it) rum, and it's the perfect cocktail to expand your Old Fashioned horizons.",
       "price": 9,
       "poster": "https://media.istockphoto.com/id/1080427414/es/foto/render-3d-de-una-copa-de-martini-en-un-fondo-oscuro.jpg?s=612x612&w=0&k=20&c=gZBwRyywB0YeRZzfaxDvVmAn3dY-pNs7FvlwA8QQX1w=",
@@ -171,7 +171,7 @@
     {
       "id": 10013,
       "name": "Brandy Crusta",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "overview": "The Brandy Crusta was invented in the 1850s in New Orleans, and although the Sazerac is the official cocktail of the city.",
       "long_description": "The Brandy Crusta was invented in the 1850s in New Orleans, and although the Sazerac is the official cocktail of the city, the Brandy Crusta came first. The Crusta was in its prime during the 19th century and became famous for its intricate garnishes and sugar-crusted rim — which is also where it gets its name. While the Brandy Crusta was formally introduced in 1862 in How to Mix Drinks, it died out in the early 20th century. But the Brandy Crusta — made with brandy, curaçao, lemon juice, sugar, maraschino liqueur, and bitters — made a comeback in New Orleans in 2004, and this time it's here to stay.",
       "price": 19,
       "poster": "https://media.istockphoto.com/id/1365353087/es/foto/c%C3%B3ctel-blue-lagoon-sobre-mesa-negra-en-bar-espacio-para-texto.jpg?s=612x612&w=0&k=20&c=paN80ebHMKAYWLvTiu7igB0ShH5AryorAjsruW7_3zE=",
@@ -185,7 +185,7 @@
     {
       "id": 10014,
       "name": "Porn Star Martini",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "overview": "Despite its interesting name, the Porn Star Martini has become a favorite in the U.K. and beyond since 2002.",
       "long_description": "Despite its interesting name, the Porn Star Martini has become a favorite in the U.K. and beyond since its 2002 inception in London. Douglas Ankrah, the cocktail creator, says he chose the name because he believed it was something a porn star would drink as it's pure indulgence, sexy, fun, and evocative. And even though it's called a martini, this cocktail is far from a traditional martini. But after you try one, you won't think twice about the name.",
       "price": 19,
       "poster": "https://media.istockphoto.com/id/1204162205/es/foto/c%C3%B3ctel-de-margarita-con-lima.webp?b=1&s=170667a&w=0&k=20&c=BvUMrl6a-Kn2gWf3Lw0bvB62wGbStez1TxZXPPLyVcA=",
@@ -199,7 +199,7 @@
     {
       "id": 10015,
       "name": "Hanky Panky",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "overview": "The Hanky Panky is a signature drink at London's longest-surviving cocktail bar, the American Bar.",
       "long_description": "The Hanky Panky is a signature drink at London's longest-surviving cocktail bar, the American Bar. As transatlantic travel became popular in the late 19th century, bars that served American-style drinks began popping up around London, and with them came the Hanky Panky cocktail. As the story goes, after trying this cocktail with gin, sweet vermouth, and Fernet-Branca, celebrated actor Sir Charles Hawtrey yelled out, That is a real hanky-panky! And the name stuck.",
       "price": 9,
       "poster": "https://media.istockphoto.com/id/1313522742/es/foto/absenta-en-vidrio-con-rodajas-de-lim%C3%B3n-sobre-fondo-oscuro-con-az%C3%BAcar-blanco.webp?b=1&s=170667a&w=0&k=20&c=dJL6wm-5AICfTW26iodbBNK97F306mvJ5S6sljJ63LY=",
@@ -215,7 +215,7 @@
     {
       "id": 10004,
       "name": "Penicillin",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "overview": "The Penicillin may not offer the cures of the antibiotic it's named for, but it's basically just as famous.",
       "long_description": "The Penicillin may not offer the cures of the antibiotic it's named for, but it's basically just as famous. This Scotch-based cocktail originated in New York in the mid-2000s. While it's a fairly new creation, the Penicillin has made its way into bars around the world, proving its status as a top classic cocktail.",
       "price": 99,
       "poster": "https://images.unsplash.com/photo-1585703164392-171d7f8a0af5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8d2hpc2tleSUyMGdsYXNzfGVufDB8MHwwfHx8MA%3D%3D",
@@ -229,7 +229,7 @@
     {
       "id": 10006,
       "name": "Daiquiri",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "overview": "Daiquiris can get a bad rep for being fruity slushies that you only drink on the beach.",
       "long_description": "Daiquiris can get a bad rep for being fruity slushies that you only drink on the beach. But this Cuban rum cocktail was a favorite of some of America's biggest names — including President John F. Kennedy and Ernest Hemingway. Let the tasty simplicity of the Daiquiri change your mind with the sweet, fresh flavors of light rum, sugar, and lime.",
       "price": 99,
       "poster": "https://media.istockphoto.com/id/1298678706/es/foto/botella-de-vino-y-copa.webp?b=1&s=170667a&w=0&k=20&c=3CNO9egC34jGq2m2hPCw76NPFswBM10Pv7Mr-ok5AH8=",
@@ -243,7 +243,7 @@
     {
       "id": 10008,
       "name": "Sazerac",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+      "overview": "Similar to an Old Fashioned, the Sazerac is composed of rye whiskey, sugar, and bitters.",
       "long_description": "Similar to an Old Fashioned, the Sazerac is composed of rye whiskey, sugar, and bitters. The Sazerac cocktail can be traced back to the 1800s, and it was trademarked by Sazerac Co., a New Orleans company, in 1900. The cocktail was named the official cocktail of New Orleans in 2008, but it has always been a large part of the city. It's believed the first versions of this cocktail were made with French brandy from Sazerac Co. and Peychaud's bitters, which were invented by a resident of New Orleans.",
       "price": 29,
       "poster": "https://media.istockphoto.com/id/926051722/es/foto/interior-degustaci%C3%B3n-de-vinos-con-varias-botellas-de-vino-y-copas.webp?b=1&s=170667a&w=0&k=20&c=tOWhaghmru0_k1X06nFcP85A802VvcWw8m5ZekEdu_0=",
