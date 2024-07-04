@@ -6,7 +6,7 @@ const server = express();
 server.use((req, res, next) => {
   res.setHeader(
     "Access-Control-Allow-Origin",
-    "https://ecommerce-beer-bog.netlify.app/"
+    "https://ecommerce-beer-bog.netlify.app"
   );
   res.setHeader(
     "Access-Control-Allow-Methods",
